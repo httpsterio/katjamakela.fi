@@ -16,11 +16,11 @@
 lang: en-US
 title: Katja Mäkelä
 email: katja@katjamakela.fi
-description:
+description: Katja Mäkelä's site
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: http://katjamakela.fi
 author:
-  name:
+  name: Katja Mäkelä
   twitter:
   picture:
 twitter_username:
