@@ -3,15 +3,15 @@ layout: home
 paginate: true
 alt_title: "Katja Mäkelä"
 sub_title: "Master of Social Sciences"
-image: example/assets/images/amine-ounnas-180287.jpg
+image: /assets/images/header.jpg
 introduction: |
-  Minä olen Katja Mäkelä, sosiaali- ja terveysalan työntekijä sekä opettaja.
-  Alun perin olen Tampereelta kotoisin, mutta nyt asun aviomieheni Aarnin ja kolmen Tiibetin Mastiffin kanssa Jyväskylässä.
-  Perheeseemme kuuluu yhteensä viisi aikuista lasta, joista kaksi on minun alun perin omia. 
-  Varsinaisen työurani olen aloittanut yrittäjänä ollessani 18-vuotias. 
-  Ensimmäiset vuodet yritystoiminnasta olivat Tampereen seudulla. 
-  Muutin lasteni isän kanssa Tanskaan vuonna 1991 ja siellä yritystoimintamme jatkui. Yrityksemme toi maahan naisten ja lasten vaatteita, joita myimme tukkuliikkeille eteenpäin.
-  Työuran aloittaminen yrittäjänä on muokannut tapaani toimia kaikessa työssä. Mietin usein asioita laadun, tehokkuuden ja asiakaspalvelun näkökulmasta.
+  My name is Katja Mäkelä and I'm in the social work and healthcare line of work. On top of that, I do some teaching at JAMK. 
+
+  I'm originally from Tampere, but currently I'm living in Jyväskylä with my husband and three dogs. I have been an entrepreneur since 1988 and in 1991 I moved to Denmark to start an international clothes importing company. 
+  
+  In 2001 I moved back to Finland and I have finished a masters degree in Social Sciences. I've been working in that fielt ever since.
+
+  My experience is wide and varied and it has shaped my way of working. I always take quality, efficiency and customer service into consideration.
 
 actions:
   - label: "Curriculum Vitae"
