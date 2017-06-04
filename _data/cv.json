@@ -6,26 +6,7 @@
     "email": "katja@katjamakela.fi",
     "phone": "+358 4050 818 48",
     "website": "http://katjamakela.fi",
-    "summary": "",
-    "location": {
-      "address": "123 Sesame Street",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "Towlette_Pettetucci",
-        "url": "https://twitter.com/Towlette_Pettetucci"
-      },
-      {
-        "network": "SoundCloud",
-        "username": "Towlette_Pettetucci",
-        "url": "https://soundcloud.com/Towlette_Pettetucci"
-      }
-    ]
+    "summary": ""
   },
   "work": [
     {
@@ -43,14 +24,25 @@
   ],
   "volunteer": [
     {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
-      "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "organization": "Jyväskylän Seudun Mielenterveysseura ry",
+      "position": "Board Member",
+      "website": "http://www.kriisikeskusmobile.fi",
+      "startDate": "2016",
+      "endDate": "Present",
+      "summary": "",
       "highlights": [
-        "Awarded a 'Helium Biscuit'"
+        "Directing the operations of the Crisis Center Mobile."
+      ]
+    },
+    {
+      "organization": "Central Finland's District Court",
+      "position": "Lay Judge",
+      "website": "",
+      "startDate": "2017",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Assisting with decisionmaking in Jyväskylä regions judicial system."
       ]
     }
   ],
@@ -68,14 +60,6 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
-    }
-  ],
   "publications": [
     {
       "name": "Radio Julius",
@@ -85,44 +69,44 @@
       "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
     }
   ],
-  "skills": [
-    {
-      "name": "Audio Juggling",
-      "level": "Master",
-      "keywords": [
-        "Ointment",
-        "Voltor",
-        "Millipedes"
-      ]
-    },
-    {
-      "name": "Bruschotti",
-      "level": "Satisfactory",
-      "keywords": [
-        "Snow camp",
-        "Owl"
-      ]
-    }
-  ],
   "languages": [
     {
-      "language": "Nonsense",
+      "language": "Finnish",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Danish",
+      "fluency": "Bilingual speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Limited working proficiency"
+    },
+    {
+      "language": "Punjabi",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Elementary proficiency"
     }
   ],
   "interests": [
     {
-      "name": "The Information Superhighway",
+      "name": "About myself",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "I have an outgoing personality and I'm interested in different cultures. That is why I enjoy traveling and getting to know new people. I am also very fond of different languages (and I speak fluently four languages). I also read a lot, either to study something or just for fun. And like the good Finnish citizen I am, I spend a lot of time at our summer cottage."
       ]
     }
   ],
   "references": [
     {
-      "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": " Hannele Koski ",
+      "reference": "Hannele Koski is the director of health and eldercare and she was previously my superior. You can contact her on her phone during business hours.<br> +358 4451 02020"
     }
   ]
 }
