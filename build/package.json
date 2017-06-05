@@ -1,0 +1,43 @@
+{
+
+  "name": "katjamakela.fi",
+
+  "version": "1.0.0",
+
+  "description": "",
+
+  "main": "index.js",
+
+  "dependencies": {
+
+    "sass-lint": "^1.10.2"
+
+  },
+
+  "devDependencies": {
+
+    "browser-sync": "^2.18.8",
+
+    "gulp": "^3.9.1",
+
+    "gulp-shell": "^0.6.3",
+
+    "lodash": "^4.17.4"
+
+  },
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://github.com/httpsterio/everydays.git"
+
+  }
+
+}
