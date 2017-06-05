@@ -10,17 +10,70 @@
   },
   "work": [
     {
-      "company": "The Whip",
-      "position": "CEO/President",
-      "website": "https://thewh.ip",
-      "startDate": "2013-12-01",
+      "company": "University of Applied Sciences",
+      "position": "Teacher",
+      "website": "",
+      "startDate": "2016",
       "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
-      "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
-      ]
+      "summary": "Teaching health care and social services."
+    },
+    {
+      "company": "Social Worker",
+      "position": "",
+      "website": "",
+      "startDate": "2012",
+      "endDate": "2016",
+      "summary": "Child welfare, adult social work, family care, adoptions and on-call social work."
+    },
+    {
+      "company": "Substitute in eldercare leadership role",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "2009 and 2013",
+      "summary": "Human resources, financial management, nursing services management"
+    },
+    {
+      "company": "On-call Substance Abuse PN",
+      "position": "Parental leave temp practical nurse",
+      "website": "",
+      "startDate": "2010",
+      "endDate": "2011",
+      "summary": "Evaluation, health counceling, open substance abuse rehabilitation execution."
+    },
+    {
+      "company": "Instructor for the mentally challenged",
+      "position": "",
+      "website": "",
+      "startDate": "2003",
+      "endDate": "2006",
+      "summary": "Guidance and nursing, in-housing services and daytime activity."
+    },
+    {
+      "company": "Instructor for the mentally challenged",
+      "position": "",
+      "website": "",
+      "startDate": "1999",
+      "endDate": "2001",
+      "summary": "Guidance and nursing, in-housing services in Denmark."
+    },
+    {
+      "company": "Entrepreneur",
+      "position": "",
+      "website": "",
+      "startDate": "1993",
+      "endDate": "2001",
+      "summary": "Importing clothes and wholesale in Denmark"
+    },
+    {
+      "company": "Entrepreneur",
+      "position": "",
+      "website": "",
+      "startDate": "1988",
+      "endDate": "1991",
+      "summary": "Food services in Finland."
     }
+
   ],
   "volunteer": [
     {
@@ -48,25 +101,41 @@
   ],
   "education": [
     {
-      "institution": "University of Ointment",
-      "area": "Digital Skillets",
+      "institution": "Jyväskylä's vocational teacher education college",
+      "area": "Vocational teacher of health care and social services",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Jyväskylä's University, Chydenius",
+      "area": "Major in Social Services, minor in Adult educational science",
+      "studyType": "Masters of Social Sciences",
+      "startDate": "",
+      "endDate": "2013"
+    },
+    {
+      "institution": "Jyväskylä's University of Applied Sciences",
+      "area": "Social Services",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
-      ]
+      "startDate": "",
+      "endDate": "2010"
+    },
+    {
+      "institution": "Jyväskylä's Adult Education",
+      "area": "Practical Nurse, specialisation in nursing and care",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2006"
     }
   ],
   "publications": [
     {
-      "name": "Radio Julius",
-      "publisher": "Tanyo Lubbock",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.rhy.es",
-      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+      "name": "Vanhuus ilman vallankaappausta",
+      "publisher": "Katja Mäkelä",
+      "releaseDate": "2013",
+      "website": "http://urn.fi/URN:NBN:fi:jyu-201501081047",
+      "summary": "An ethnographic case study of a Danish retirement home."
     }
   ],
   "languages": [

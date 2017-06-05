@@ -14,9 +14,9 @@
             <span class="startDate">{{ e.startDate }}</span>
           {% endif %}
           {% if e.endDate == '' %}
-            <span class="endDate">{{ site.data.theme.t.present | default: 'Present' | prepend: ' &mdash; ' }}</span>
+            <span class="endDate">{{ site.data.theme.t.present | default: 'Present' | prepend: '' }}</span>
           {% else %}
-            <span class="endDate">{{ e.endDate | prepend: ' &mdash; ' }}</span>
+            <span class="endDate">{{ e.endDate | prepend: '' }}</span>
           {% endif %}
         </div>
         {% if e.area %}
@@ -29,7 +29,7 @@
               <li>{{ course }}</li>
             {% endfor %}
           </ul>
-        {% endif %}
+        {% endif %} <br>
       {% endfor %}
     </div>
   </div>

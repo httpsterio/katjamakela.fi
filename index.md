@@ -16,7 +16,7 @@ introduction: |
 actions:
   - label: "Curriculum Vitae"
     icon: download
-    url: "https://katjamakela.fi/cv"
+    url: "http://katjamakela.fi/cv"
   - label: "LinkedIn"
     icon: linkedin
     url: "https://www.linkedin.com/in/katja-mäkelä-36a55997"
